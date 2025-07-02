@@ -31,11 +31,11 @@ The objective was to:
 - TikTok Video Matching: **Manual analysis**  
 
 ## Folder Structure  
-├── notebooks/ # Main notebook with analysis and pipeline design
-├── data/ # (Optional) Cleaned or sample data
-├── assets/ # Generated images (creative ideas, flowchart)
-├── README.md # This file
-├── requirements.txt # Python dependencies
+-´notebook/´ # Main notebook with analysis and pipeline design
+-´data/´ # (Optional) Cleaned or sample data
+-´assets/´ # Generated images (creative ideas, flowchart)
+-´README.md´ # This file
+-´requirements.txt´ # Python dependencies
 
 ## Reproducibility  
 All key steps are documented in the notebook, including:
