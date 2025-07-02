@@ -1,9 +1,8 @@
-# TikTok Content AI Agent
+# TikTok Creative Automation Agent (Design)
 ## Dependencies  
 This project uses the following Python tools and libraries:
 - [`Pandas`](https://pandas.pydata.org/)
 - [`NumPy`](https://numpy.org/)
-- [`Matplotlib`](https://matplotlib.org/) *(optional, for visualizations)*
 - [`OpenAI`](https://platform.openai.com/docs) *(for GPT-4 access)*
 
 ## Introduction  
